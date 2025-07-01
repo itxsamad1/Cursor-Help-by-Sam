@@ -31,7 +31,8 @@ Choose the appropriate modifier file based on your operating system and architec
 - [Linux ARM64](cursor-id-modifier_0.0.31_linux_arm64)
 
 ### Cursor Setup File
-- [Cursor Setup x64](CursorUserSetup-x64-0.46.8.exe)
+- Due to GitHub file size limitations, please download Cursor Setup from the [official website](https://cursor.sh/)
+- The version used in testing was CursorUserSetup-x64-0.46.8.exe
 
 ## 🚀 How to Reset Cursor Free Trial
 
@@ -42,7 +43,7 @@ Follow these steps to reset your Cursor free trial:
    - Logout from your browser account
 
 2. **Install Cursor AI**
-   - Download and install [Cursor Setup](CursorUserSetup-x64-0.46.8.exe)
+   - Download and install Cursor from the [official website](https://cursor.sh/)
 
 3. **Run the Modifier File**
    - Download the appropriate modifier file for your system (see above)

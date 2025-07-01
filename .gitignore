@@ -1,0 +1,6 @@
+# Large setup files
+CursorUserSetup-*.exe
+
+# OS-specific files
+.DS_Store
+Thumbs.db 
