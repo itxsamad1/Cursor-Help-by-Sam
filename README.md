@@ -56,6 +56,10 @@ Follow these steps to reset your Cursor free trial:
 
 5. **Run PowerShell as Administrator**
    - Open PowerShell with administrator privileges
+   - Run the following command:
+   ```
+   irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
+   ```
    ![PowerShell as Administrator](Powershell%20-%20Run%20as%20administrator.png)
 
 6. **Complete the Reset Process**
