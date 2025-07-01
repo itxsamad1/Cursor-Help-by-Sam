@@ -1,7 +1,7 @@
 # Cursor Free Trial Reset
 
 <p align="center">
-  <img src="https://cursor.sh/favicon.ico" alt="Cursor Logo" width="150" height="150">
+  <img src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp" alt="Cursor Logo" width="120">
 </p>
 
 This repository contains tools and instructions to reset the free trial of Cursor AI, allowing you to continue using it after your trial period ends.
@@ -63,8 +63,7 @@ Follow these steps to reset your Cursor free trial:
    ![Cursor CMD on PowerShell](Cusor%20cmd%20on%20Powershell.png)
 
 7. **When Credits End**
-   - Delete your account and create a new one again
-   - Repeat these steps as needed
+   - Delete your account and create a new one again , you will have credits again
 
 ## 🛠️ Troubleshooting
 
