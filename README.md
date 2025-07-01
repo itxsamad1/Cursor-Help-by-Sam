@@ -1,6 +1,8 @@
 # Cursor Free Trial Reset
 
-![Cursor Logo](https://cursor.sh/favicon.ico)
+<p align="center">
+  <img src="https://cursor.sh/favicon.ico" alt="Cursor Logo" width="150" height="150">
+</p>
 
 This repository contains tools and instructions to reset the free trial of Cursor AI, allowing you to continue using it after your trial period ends.
 
@@ -17,18 +19,18 @@ This tool currently supports:
 Choose the appropriate modifier file based on your operating system and architecture:
 
 #### Windows
-- [Windows x64 (64-bit)](cursor-id-modifier_0.0.31_windows_x86_64.exe)
-- [Windows x86 (32-bit)](cursor-id-modifier_0.0.31_windows_i386.exe)
-- [Windows ARM64](cursor-id-modifier_0.0.31_windows_arm64.exe)
+- [Windows x64 (64-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_x86_64.exe)
+- [Windows x86 (32-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_i386.exe)
+- [Windows ARM64](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_arm64.exe)
 
 #### macOS
-- [macOS Intel (x86_64)](cursor-id-modifier_0.0.31_darwin_x86_64)
-- [macOS Apple Silicon (ARM64)](cursor-id-modifier_0.0.31_darwin_arm64)
+- [macOS Intel (x86_64)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_darwin_x86_64)
+- [macOS Apple Silicon (ARM64)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_darwin_arm64)
 
 #### Linux
-- [Linux x64 (64-bit)](cursor-id-modifier_0.0.31_linux_x86_64)
-- [Linux x86 (32-bit)](cursor-id-modifier_0.0.31_linux_i386)
-- [Linux ARM64](cursor-id-modifier_0.0.31_linux_arm64)
+- [Linux x64 (64-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_x86_64)
+- [Linux x86 (32-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_i386)
+- [Linux ARM64](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_arm64)
 
 ### Cursor Setup File
 - Due to GitHub file size limitations, please download Cursor Setup from the [official website](https://cursor.sh/)
@@ -60,8 +62,9 @@ Follow these steps to reset your Cursor free trial:
    - When you see Chinese text after stopping, press 1 and then Enter
    ![Cursor CMD on PowerShell](Cusor%20cmd%20on%20Powershell.png)
 
-7. **Continue Using Cursor**
-   - If your credits end, delete your account and repeat these steps
+7. **When Credits End**
+   - Delete your account and create a new one again
+   - Repeat these steps as needed
 
 ## 🛠️ Troubleshooting
 
