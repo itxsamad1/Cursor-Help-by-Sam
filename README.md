@@ -72,6 +72,28 @@ If you encounter any issues:
 - Ensure you run PowerShell as administrator
 - Verify that you've completely uninstalled previous versions of Cursor
 
+## ⭐ Project Stats
+
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/your-repobeats-id-here.svg" alt="Repobeats analytics image">
+</p>
+
+## 👥 Contributors
+
+<a href="https://github.com/itxsamad1/Cursor-Help-by-Sam/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=itxsamad1/Cursor-Help-by-Sam" />
+</a>
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
 ## ⚠️ Disclaimer
 
 This tool is provided for educational purposes only. Use at your own risk.
