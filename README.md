@@ -76,13 +76,9 @@ If you encounter any issues:
 - Ensure you run PowerShell as administrator
 - Verify that you've completely uninstalled previous versions of Cursor
 
-## ⭐ Project Stats
+## 📊 Repository Activity
 
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/your-repobeats-id-here.svg" alt="Repobeats analytics image">
-</p>
-
-## 👥 Contributors
+[![Contribution Stats](https://github-readme-stats.vercel.app/api?username=itxsamad1&repo=Cursor-Help-by-Sam&theme=dark&show_icons=true&hide_title=true&count_private=true)](https://github.com/itxsamad1/Cursor-Help-by-Sam)
 
 <a href="https://github.com/itxsamad1/Cursor-Help-by-Sam/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=itxsamad1/Cursor-Help-by-Sam" />
