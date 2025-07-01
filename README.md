@@ -75,4 +75,4 @@ This tool is provided for educational purposes only. Use at your own risk.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
