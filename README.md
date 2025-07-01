@@ -67,7 +67,7 @@ Follow these steps to reset your Cursor free trial:
    ![Cursor CMD on PowerShell](Cusor%20cmd%20on%20Powershell.png)
 
 7. **When Credits End**
-   - Delete your account and create a new one again , you will have credits again
+   - Delete your account and create the same account using the same login , you will have credits again
 
 ## 🛠️ Troubleshooting
 
@@ -75,10 +75,6 @@ If you encounter any issues:
 - Make sure you're using the correct modifier file for your system
 - Ensure you run PowerShell as administrator
 - Verify that you've completely uninstalled previous versions of Cursor
-
-## ⭐ Project Stats
-
-[![Repobeats analytics image](https://repobeats.axiom.co/api/embed/c84c8e0fd3ba5c15d82c05cfd0e14d58afb82db1.svg "Repobeats analytics image")](https://github.com/itxsamad1/Cursor-Help-by-Sam)
 
 ## 📝 License
 
