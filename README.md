@@ -83,7 +83,7 @@ This repository contains advanced tools and methodologies for **Cursor AI free t
 <td align="center" width="33%">
 
 **🛡️ PATCHED BY**  
-`Cursor Security Team`
+`Sam Hacker`
 
 </td>
 <td align="center" width="33%">
