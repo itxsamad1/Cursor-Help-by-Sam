@@ -45,7 +45,7 @@
 │  🎯 MISSION: UNLIMITED CURSOR AI ACCESS             │
 │  ⚡ METHOD: SYSTEM ID MODIFICATION + TRIAL BYPASS   │
 │  🛡️ STATUS: ARCHIVED (NO LONGER FUNCTIONAL)         │
-│  📅 ACTIVE PERIOD: MARCH 2024 - AUGUST 1, 2025      │
+│  📅 ACTIVE PERIOD: MARCH 2024 - AUGUST 1, 2025     │
 └─────────────────────────────────────────────────────┘
 ```
 
@@ -83,7 +83,7 @@ This repository contains advanced tools and methodologies for **Cursor AI free t
 <td align="center" width="33%">
 
 **🛡️ PATCHED BY**  
-`Sam Hacker`
+`Cursor Security Team`
 
 </td>
 <td align="center" width="33%">
@@ -113,9 +113,9 @@ This repository contains advanced tools and methodologies for **Cursor AI free t
 │  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐  │
 │  │   WINDOWS   │    │    macOS    │    │    LINUX    │  │
 │  │             │    │             │    │             │  │
-│  │ x86_64 ✓    │    │ Intel x64 ✓ │    │ x86_64 ✓   │  │
-│  │ i386   ✓    │    │ ARM64 M1+ ✓ │    │ i386   ✓   │  │
-│  │ ARM64  ✓    │    │             │    │ ARM64  ✓   │  │
+│  │ x86_64 ✓    │    │ Intel x64 ✓ │    │ x86_64 ✓    │  │
+│  │ i386   ✓    │    │ ARM64 M1+ ✓ │    │ i386   ✓    │  │
+│  │ ARM64  ✓    │    │             │    │ ARM64  ✓    │  │
 │  └─────────────┘    └─────────────┘    └─────────────┘  │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -123,46 +123,37 @@ This repository contains advanced tools and methodologies for **Cursor AI free t
 
 </div>
 
-### 💾 Binary Arsenal
+### 💾 Downloads
 
 <details>
-<summary><b>🪟 Windows Payload Collection</b></summary>
+<summary><b>🪟 Windows</b></summary>
 
-| Architecture | Binary | Size | Hash (SHA256) |
-|-------------|--------|------|---------------|
-| **x86_64** | [`cursor-id-modifier_0.0.31_windows_x86_64.exe`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_x86_64.exe) | ~2.1MB | `abc123...` |
-| **i386** | [`cursor-id-modifier_0.0.31_windows_i386.exe`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_i386.exe) | ~1.8MB | `def456...` |
-| **ARM64** | [`cursor-id-modifier_0.0.31_windows_arm64.exe`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_arm64.exe) | ~2.0MB | `ghi789...` |
+- [Windows x64 (64-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_x86_64.exe)
+- [Windows x86 (32-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_i386.exe)
+- [Windows ARM64](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_windows_arm64.exe)
 
 </details>
 
 <details>
-<summary><b>🍎 macOS Binary Suite</b></summary>
+<summary><b>🍎 macOS</b></summary>
 
-| Architecture | Binary | Compatibility |
-|-------------|--------|---------------|
-| **Intel x64** | [`cursor-id-modifier_0.0.31_darwin_x86_64`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_darwin_x86_64) | macOS 10.15+ |
-| **Apple Silicon** | [`cursor-id-modifier_0.0.31_darwin_arm64`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_darwin_arm64) | macOS 11.0+ |
+- [macOS Intel (x86_64)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_darwin_x86_64)
+- [macOS Apple Silicon (ARM64)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_darwin_arm64)
 
 </details>
 
 <details>
-<summary><b>🐧 Linux Distribution Arsenal</b></summary>
+<summary><b>🐧 Linux</b></summary>
 
-| Architecture | Binary | Tested Distros |
-|-------------|--------|----------------|
-| **x86_64** | [`cursor-id-modifier_0.0.31_linux_x86_64`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_x86_64) | Ubuntu, Debian, Fedora, Arch |
-| **i386** | [`cursor-id-modifier_0.0.31_linux_i386`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_i386) | Legacy systems |
-| **ARM64** | [`cursor-id-modifier_0.0.31_linux_arm64`](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_arm64) | Raspberry Pi 4+, ARM servers |
+- [Linux x64 (64-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_x86_64)
+- [Linux x86 (32-bit)](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_i386)
+- [Linux ARM64](https://github.com/itxsamad1/Cursor-Help-by-Sam/raw/main/cursor-id-modifier_0.0.31_linux_arm64)
 
 </details>
 
-### 🎯 Target Application
-
-**Cursor AI Editor** - Download from [Official Source](https://cursor.sh/)
-- **Tested Version**: `CursorUserSetup-x64-0.46.8.exe`
-- **Target Files**: System registry, application cache, user profiles
-- **Modification Scope**: Trial tracking mechanisms
+### Cursor Setup File
+- Due to GitHub file size limitations, please download Cursor Setup from the [official website](https://cursor.sh/)
+- The version used in testing was CursorUserSetup-x64-0.46.8.exe
 
 ---
 
@@ -170,141 +161,53 @@ This repository contains advanced tools and methodologies for **Cursor AI free t
 
 <div align="center">
 
-### 🎯 **THE COMPLETE ATTACK CHAIN**
+```
+[⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀INITIATING HACK SEQUENCE⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀]
+[██████████████████████████████████████████████████] 100%
+[BYPASS STATUS: ACTIVE] [TARGET: CURSOR AI] [METHOD: ID_SPOOF]
+```
 
 ```
-📋 PHASE 1: RECONNAISSANCE
-      ↓
-🧹 PHASE 2: SYSTEM CLEANUP
-      ↓
-⚡ PHASE 3: PAYLOAD DEPLOYMENT
-      ↓
-🎭 PHASE 4: IDENTITY MODIFICATION
-      ↓
-🔄 PHASE 5: ACCOUNT CYCLING
+> Scanning target system...
+> Identifying trial management files...
+> ████████████████████░░░░ 75% 
+> Preparing payload injection...
+> ████████████████████████ 100%
+> SYSTEM COMPROMISED ✓
 ```
 
 </div>
 
 ### 🚀 Step-by-Step Execution Guide
 
-<details>
-<summary><b>🧹 PHASE 1: Deep System Cleanup</b></summary>
+1. **Clean Uninstall old Cursor**
+   - Use [Geek Uninstaller](https://geekuninstaller.com/) for a complete uninstall
+   - Logout from your browser account
 
-```powershell
-# CRITICAL: Complete Cursor Eradication Protocol
-```
+2. **Install Cursor AI**
+   - Download and install Cursor from the [official website](https://cursor.sh/)
 
-1. **🛠️ Advanced Uninstallation**
+3. **Run the Modifier File**
+   - Download the appropriate modifier file for your system (see above)
+   - Run the modifier file
+
+4. **Sign in to Cursor**
+   - Use a Google account or GitHub account only
+
+5. **Run PowerShell as Administrator**
+   - Open PowerShell with administrator privileges
+   - Run the following command:
    ```
-   Tool: Geek Uninstaller (Recommended)
-   URL: https://geekuninstaller.com/
-   Method: Deep scan + Registry cleanup
+   irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
    ```
+   ![PowerShell as Administrator](Powershell%20-%20Run%20as%20administrator.png)
 
-2. **🌐 Session Termination**
-   ```
-   Action: Browser logout from all Cursor accounts
-   Scope: All browsers, all profiles
-   Verification: Clear cookies, cache, stored credentials
-   ```
+6. **Complete the Reset Process**
+   - When you see Chinese text after stopping, press 1 and then Enter
+   ![Cursor CMD on PowerShell](Cusor%20cmd%20on%20Powershell.png)
 
-3. **🗃️ Registry Cleanup** (Windows)
-   ```cmd
-   # Manual registry paths (HISTORICAL REFERENCE)
-   HKEY_CURRENT_USER\Software\Cursor
-   HKEY_LOCAL_MACHINE\SOFTWARE\Cursor
-   %APPDATA%\Cursor\
-   %LOCALAPPDATA%\Cursor\
-   ```
-
-</details>
-
-<details>
-<summary><b>⚡ PHASE 2: Target Installation</b></summary>
-
-```bash
-# Fresh Cursor Installation Protocol
-```
-
-1. **📥 Clean Installation**
-   - Source: [Official Cursor Website](https://cursor.sh/)
-   - Method: Standard installation process
-   - Verification: No custom configurations
-
-2. **🔍 System State Verification**
-   ```powershell
-   # Verify clean installation state
-   Get-Process | Where-Object {$_.ProcessName -like "*cursor*"}
-   ```
-
-</details>
-
-<details>
-<summary><b>🎯 PHASE 3: Payload Execution</b></summary>
-
-```bash
-# Binary Modification Protocol
-```
-
-1. **🎯 Architecture Detection**
-   ```bash
-   # Windows
-   echo %PROCESSOR_ARCHITECTURE%
-   
-   # Linux/macOS
-   uname -m
-   ```
-
-2. **🚀 Modifier Execution**
-   ```bash
-   # Download appropriate binary (see architecture table above)
-   # Execute with appropriate permissions
-   ./cursor-id-modifier_0.0.31_[your_system_architecture]
-   ```
-
-3. **🛡️ Permission Escalation**
-   ```powershell
-   # Windows: Run as Administrator
-   Start-Process PowerShell -Verb RunAs
-   ```
-
-</details>
-
-<details>
-<summary><b>🎭 PHASE 4: Identity Authentication</b></summary>
-
-```json
-{
-  "authentication_method": "OAuth_2.0",
-  "supported_providers": ["Google", "GitHub"],
-  "requirement": "Fresh_Account_Creation",
-  "verification": "Email_Confirmation"
-}
-```
-
-**⚠️ CRITICAL**: Only Google or GitHub authentication methods were compatible with the bypass mechanism.
-
-</details>
-
-<details>
-<summary><b>🔄 PHASE 5: PowerShell Automation</b></summary>
-
-```powershell
-# AUTOMATED BYPASS EXECUTION
-irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/scripts/run/cursor_win_id_modifier.ps1 | iex
-```
-
-**Execution Flow:**
-1. **Administrator Privileges Required**
-2. **Script Downloads and Executes Automatically**
-3. **Chinese Interface Navigation**: Press `1` → `Enter`
-4. **System Modification Confirmation**
-
-![PowerShell Execution](Powershell%20-%20Run%20as%20administrator.png)
-![Command Interface](Cusor%20cmd%20on%20Powershell.png)
-
-</details>
+7. **When Credits End**
+   - Delete your account and create the same account using the same login , you will have credits again
 
 ---
 
@@ -312,14 +215,20 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 
 <div align="center">
 
-### 🎭 **ACCOUNT CYCLING STRATEGY**
-
 ```
-┌─────────────────────────────────────────────┐
-│  CREDITS EXHAUSTED → DELETE ACCOUNT         │
-│         ↓                    ↑              │
-│  CREATE SAME ACCOUNT ← FRESH CREDITS        │
-└─────────────────────────────────────────────┘
+┌─[ ACCOUNT CYCLING PROTOCOL ]─────────────────────┐
+│                                                  │
+│  [CREDITS: ████████░░] 80%                       │
+│  [WARNING: LOW CREDITS DETECTED]                 │
+│  [INITIATING AUTO-CYCLE...]                      │
+│                                                  │
+│  > Deleting current account...                   │
+│  > ████████████████████████ DELETED              │
+│  > Creating identical account...                 │
+│  > ████████████████████████ CREATED              │
+│  > [SUCCESS: FRESH CREDITS RESTORED]             │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -350,37 +259,12 @@ irm https://raw.githubusercontent.com/yuaotian/go-cursor-help/refs/heads/master/
 
 ---
 
-## 🐛 Historical Troubleshooting
+## 🚨 Troubleshooting
 
-<details>
-<summary><b>🔧 Common Issues & Solutions (ARCHIVED)</b></summary>
-
-### ❌ **Modifier Not Working**
-```bash
-# Verification Steps (Historical)
-1. Correct architecture binary ✓
-2. Administrator privileges ✓  
-3. Complete uninstallation ✓
-4. Fresh installation ✓
-```
-
-### ❌ **PowerShell Script Failures**
-```powershell
-# Troubleshooting Protocol
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-# Retry execution with elevated privileges
-```
-
-### ❌ **Account Recreation Issues**
-```json
-{
-  "issue": "Same account detection",
-  "solution": "Complete browser data cleanup",
-  "verification": "Incognito mode testing"
-}
-```
-
-</details>
+If you encounter any issues:
+- Make sure you're using the correct modifier file for your system
+- Ensure you run PowerShell as administrator
+- Verify that you've completely uninstalled previous versions of Cursor
 
 ---
 
@@ -390,15 +274,23 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ### 📊 **HISTORICAL STATISTICS**
 
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────┐
-│  📈 SUCCESSFUL RESETS: 50,000+                     │
-│  👥 ACTIVE USERS: 15,000+ (at peak)                │
-│  🌍 GLOBAL REACH: 120+ countries                   │
-│  ⏰ AVERAGE USAGE: 18 months per user              │
-│  💰 ESTIMATED SAVINGS: $2.5M+ in subscription fees │
-└─────────────────────────────────────────────────────┘
+┌─[ HACKER DASHBOARD ]─────────────────────────────┐
+│                                                  │
+│  SUCCESSFUL_RESETS: 50,000+     [██████████] 100%│
+│  ACTIVE_USERS: 15,000+          [████████░░]  80%│
+│  GLOBAL_REACH: 120+ countries   [██████████] 100%│
+│  AVG_USAGE: 18 months/user      [████████░░]  85%│
+│  ESTIMATED_SAVINGS: $2.5M+      [██████████] 100%│
+│                                                  │
+│  [STATUS: ARCHIVED] [LAST_ACTIVE: AUG_1_2025]    │
+│                                                  │
+└──────────────────────────────────────────────────┘
 ```
+
+</div>
 
 </div>
 
@@ -427,12 +319,27 @@ The methodologies developed contributed to:
 
 ### 🧬 **NEXT-GENERATION BYPASS CONCEPTS**
 
-</div>
+<div align="center">
 
-- **🤖 AI-Powered Trial Detection**: Machine learning based trial circumvention
-- **🔒 Hardware Fingerprinting**: Advanced device identification spoofing
-- **🌐 Distributed Reset Networks**: Coordinated multi-node bypass systems
-- **🛡️ Behavioral Analysis Evasion**: Human interaction pattern simulation
+```
+┌─[ FUTURE ATTACK VECTORS ]───────────────────────┐
+│                                                 │
+│  > AI-POWERED DETECTION EVASION                 │
+│    [██████████░░░░░░] 60% Research Complete     │
+│                                                 │
+│  > HARDWARE FINGERPRINT SPOOFING                │
+│    [████████░░░░░░░░] 45% Development Phase     │
+│                                                 │
+│  > DISTRIBUTED BYPASS NETWORKS                  │
+│    [██████░░░░░░░░░░] 30% Proof of Concept      │
+│                                                 │
+│  > BEHAVIORAL PATTERN SIMULATION                │
+│    [████░░░░░░░░░░░░] 25% Initial Research      │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -476,20 +383,15 @@ The methodologies developed contributed to:
 ### 👨‍💻 **PROJECT ARCHITECT**
 
 **Abdul Samad (@itxsamad1)**  
-*Cybersecurity Expert| AI Researcher |Software Engineer*
+*Cybersecurity Expert | AI Researcher | Software Engineer*
 
 [![GitHub](https://img.shields.io/badge/GitHub-@itxsamad1-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=red)](https://github.com/itxsamad1)
 [![Research](https://img.shields.io/badge/Research-Security_Analysis-blue?style=for-the-badge&logo=security&logoColor=white&labelColor=black)](https://github.com/itxsamad1)
 [![Expertise](https://img.shields.io/badge/Expertise-Trial_Bypass-green?style=for-the-badge&logo=hack&logoColor=white&labelColor=black)](#)
 
-</div>
-
 ### 🙏 **Acknowledgments**
 
-- **@yuaotian** - PowerShell automation scripts
-- **Beta Testing Community** - 500+ testers worldwide
-- **Security Researchers** - Responsible disclosure practices
-- **Open Source Community** - Tool distribution and feedback
+This project was developed by **Abdul Samad** with small assistance from **@yuaotian** for PowerShell automation scripts.
 
 ---
 
@@ -529,18 +431,33 @@ All binaries and scripts are provided "as-is" for research and educational use o
 
 <div align="center">
 
+<div align="center">
+
 ```
- ______   ______   ______   __  __   __   ______   ______   _____    
-/\  __ \ /\  == \ /\  ___\ /\ \_\ \ /\ \ /\  ___\ /\  ___\ /\  __-.  
-\ \  __ \\ \  __< \ \ \____\ \  __ \\ \ \\ \  ___\\ \  __\ \ \ \/\ \ 
- \ \_\ \_\\ \_\ \_\\ \_____\\ \_\ \_\\ \_\\ \_____\\ \_____\\ \____- 
-  \/_/\/_/ \/_/ /_/ \/_____/ \/_/\/_/ \/_/ \/_____/ \/_____/ \/____/ 
+┌─[ SYSTEM SHUTDOWN INITIATED ]───────────────────┐
+│                                                 │
+│  > Archiving exploit database...                │
+│    [████████████████████████] COMPLETE          │
+│                                                 │
+│  > Terminating active sessions...               │
+│    [████████████████████████] COMPLETE          │
+│                                                 │
+│  > Final status report...                       │
+│    [████████████████████████] COMPLETE          │
+│                                                 │
+│  PROJECT ARCHIVED: AUGUST 1, 2025               │
+│  REASON: TARGET SECURITY PATCHED                │
+│  STATUS: EDUCATIONAL USE ONLY                   │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
 
-**🏴‍☠️ ARCHIVED WITH HONOR - AUGUST 1, 2025 🏴‍☠️**
+**🏴‍☠️ MISSION COMPLETE - SYSTEM ARCHIVED 🏴‍☠️**
 
 *"Every security researcher stands on the shoulders of those who dared to explore the unknown"*
 
 **Made with ⚡ by Abdul Samad | Educational Use Only | MIT Licensed**
+
+</div>
 
 </div>
